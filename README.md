@@ -1,7 +1,7 @@
 # Blooket-Utilities
 Contains many useful utilities for Blooket
 
-To use it, first navigate to [Blooket](api.blooket.com) and run `console.js` on the site
+To use it, first navigate to [Blooket](https://api.blooket.com) and run `console.js` on the site
 
 ## Features
 - Bulk buy of Blooks
